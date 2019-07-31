@@ -1,0 +1,15 @@
+{
+  "name": "codechain-sdk-prac",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ping.js",
+  "dependencies": {
+    "codechain-sdk": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "f"
+  },
+  "author": "",
+  "license": "ISC"
+}
